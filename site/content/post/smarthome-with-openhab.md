@@ -15,7 +15,9 @@ Kebanyakan lampu dan sensor dirumah menggunakan xiomi smart home, dimana bisa di
 
 Lalu mau cari wall mount untuk ipad mini agar bisa menempel ditembok ternyata tidak ada, jadi terpaksa harus 3D print sendiri casingnya.
 
-\[Foto 3d printed case]
+![](img/3dprint.gif)
+
+![](img/screen-shot-2020-03-30-at-10.09.30-pm.png)
 
 Dan berikut hasilnya setelah dipasang didinding, not bad untuk hasil custom sendiri 😂. Selanjutnya tinggal membeli kabel pendek untuk continuous power.
 
