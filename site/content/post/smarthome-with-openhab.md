@@ -1,6 +1,6 @@
 ---
 title: Smarthome with OpenHAB
-date: 2020-03-30T20:48:08.119Z
+date: 2019-03-05T21:48:08.119Z
 description: Blog singkat smarthome building using openHAB
 ---
 Terinspirasi setelah menonton youtube tentang smart home, dimana banyak smart home yang memiliki pusat kontrol berupa layar didinding. Super cool! Jadi tertarik untuk membuat juga untuk dirumah, tapi  kepinginnya yang custom, bukan yang siap pakai seperti Apple smart home atau Xiaomi smart home. Setelah melakukan riset, ada beberapa open source software yang bisa digunakan seperti [openHAB](https://www.openhab.org/) dan [Home Assistant](https://www.home-assistant.io/). Untuk blog ini saya coba openHAB dulu.
