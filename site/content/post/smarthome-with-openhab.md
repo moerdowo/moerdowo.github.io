@@ -7,18 +7,18 @@ Terinspirasi setelah menonton youtube tentang smart home, dimana banyak smart ho
 
 Goalnya adalah membuat pusat kontrol rumah menggunakan iPad mini jadul yang masih bisa dipakai, goalsnya seperti gambar berikut: 
 
-![ipad smart home panel](img/screen-shot-2020-03-30-at-9.50.07-pm.png "iPad smart home panel")
+![ipad smart home panel](/img/screen-shot-2020-03-30-at-9.50.07-pm.png "iPad smart home panel")
 
 Kebanyakan lampu dan sensor dirumah menggunakan xiomi smart home, dimana bisa diakses oleh openHAB. Setelah seharian ngoding dan ngoprek, berikut hasilnya:
 
-![](img/panel222.gif)
+![](/img/panel222.gif)
 
 Lalu mau cari wall mount untuk ipad mini agar bisa menempel ditembok ternyata tidak ada, jadi terpaksa harus 3D print sendiri casingnya.
 
-![](img/3dprint.gif)
+![](/img/3dprint.gif)
 
-![](img/screen-shot-2020-03-30-at-10.09.30-pm.png)
+![](/img/screen-shot-2020-03-30-at-10.09.30-pm.png)
 
 Dan berikut hasilnya setelah dipasang didinding, not bad untuk hasil custom sendiri 😂. Selanjutnya tinggal membeli kabel pendek untuk continuous power.
 
-![](img/panel-vid.gif)
+![](/img/panel-vid.gif)
