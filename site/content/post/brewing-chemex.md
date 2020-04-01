@@ -16,4 +16,4 @@ In the end, people and especially politicians must be aware of this technology t
 
 Bonus :
 
-![](img/seax.gif)
+![](/img/seax.gif)
