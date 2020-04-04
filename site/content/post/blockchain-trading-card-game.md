@@ -3,7 +3,7 @@ title: Blockchain Trading Card Game
 date: 2020-04-04T19:17:24.301Z
 description: blockchain trading card game gods unchained
 ---
-![](img/screen-shot-2020-04-04-at-8.30.42-pm.png)
+![](/img/screen-shot-2020-04-04-at-8.30.42-pm.png)
 
 Karena COVID-19 yang membuat kita tidak bisa keluar rumah alias lockdown, jadi banyak waktu luang untuk mengikuti kelas online yang sudah lama tertunda. Salah satu kelas online yang diikuti adalah Blockchain Developer Nano Degree dari Udacity. Dalam salah satu topiknya adalah membahas ethereum dan aplikasinya untuk membuat token dan dApps (decentralized apps). Kita diminta untuk mengeksplorasi transaksi ethereum di web [etherscan](https://etherscan.io/), salah satu nya adalah eksplorasi token-token yang ada di platform ethereum saat ini dan jumlah transaksinya yang terjadi per hari. Salah satu dari token ERC721 yang ada di ranking tertinggi adalah [Gods Unchained Cards (CARD)](https://etherscan.io/token/0x0e3a2a1f2146d86a604adc220b4967a898d7fe07), A TCG on the Ethereum blockchain that uses NFT's to bring real ownership to in-game assets. Seketika itu juga saya langsung berpikir ini adalah ide yang menarik. Sebagai salah satu penggemar card game seperti Yu-gi-oh! dan Hearthstone, aplikasi token pada kepemilikan token adalah hal yang luar biasa, karena dengan menjadikan akrtu kita sebagai ERC721 token, makan kita bisa menjual, membeli dan bertukar kartu dengan pemain lainnya layaknya kita memiliki kartu fisik.
 
