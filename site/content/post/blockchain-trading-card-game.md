@@ -13,4 +13,8 @@ Seketika itu saya langsung mambuka webnya dan mendownload gamenya. Dari sisi gam
 
 Layaknya Hearthstone,  kartu dibedakan berdasarkan kelangkaannya yaitu: common, rare, epic dan legendary. Penjelasan selengkapnya sudah diulas lengkap [disini](https://medium.com/@gu.packs.contact/a-guide-to-card-packs-in-gods-unchained-6eead65af8c2). Saat dicoba gamenya masih banyak bug dan sedikit lambat walaupun sudah dalam tahap playable, semoga kedepan semakin baik karena gamenya sangat seru.
 
-Konsep seperti inilah yang diharapkan bisa banyak diterapkan pada game yang menonjolkan keseruan dalam mengkoleksi digital asset, dimana digital asset yang kita punya bisa ditransaksikan, ditunggu aplikasi lainnya seperti misalnya game pokemon, kita bisa berburu pokemon langka yang bisa kita barter, jual, beli dan diadu dengan pemain lainnya. Memang dari sisi aksesibilitas perlu ditingkatkan, karena saat ini jika kita ingin bertransaksi dalam game, kita harus memiliki crypto wallet / digital identity seperti [metamask](https://metamask.io/) yang mana belum banyak orang yang tahu, namun ini hanyalah masalah waktu.
+Konsep seperti inilah yang diharapkan bisa banyak diterapkan pada game yang menonjolkan keseruan dalam mengkoleksi digital asset, dimana digital asset yang kita punya bisa ditransaksikan, ditunggu aplikasi lainnya seperti misalnya game pokemon, kita bisa berburu pokemon langka yang bisa kita barter, jual, beli dan diadu dengan pemain lainnya. Memang dari sisi aksesibilitas perlu ditingkatkan, karena saat ini jika kita ingin bertransaksi dalam game, kita harus memiliki crypto wallet / digital identity seperti [metamask](https://metamask.io/) yang mana belum banyak orang yang tahu, namun ini hanyalah masalah waktu menurut saya.
+
+
+
+*Sumber gambar: <https://godsunchained.com/>*
