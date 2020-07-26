@@ -9,16 +9,16 @@ Link to paper: <https://saic-mdal.github.io/HiDT/>
 
 Source:
 
-![](img/1.jpg)
+![](/img/1.jpg)
 
 Result (Sunset):
 
-![](img/download-1-.png)
+![](/img/download-1-.png)
 
 Source:
 
-![](img/2.jpg)
+![](/img/2.jpg)
 
 Result (Night):
 
-![](img/download-4-.png)
+![](/img/download-4-.png)
