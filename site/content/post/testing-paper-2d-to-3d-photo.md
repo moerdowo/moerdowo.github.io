@@ -9,8 +9,8 @@ Link to paper: <https://shihmengli.github.io/3D-Photo-Inpainting/>
 
 Source:
 
-![](img/menmom.jpg)
+![](/img/menmom.jpg)
 
 Result:
 
-![](img/menmomslide.gif)
+![](/img/menmomslide.gif)
