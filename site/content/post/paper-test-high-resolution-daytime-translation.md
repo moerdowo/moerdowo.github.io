@@ -1,6 +1,6 @@
 ---
 title: 'Paper Test: High-Resolution Daytime Translation'
-date: 2020-07-26T11:48:47.213Z
+date: 2020-07-25T11:48:47.213Z
 description: Modeling daytime changes in high resolution photographs
 ---
 Modeling daytime changes in high resolution photographs.
