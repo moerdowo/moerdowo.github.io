@@ -9,10 +9,10 @@ I tried it in Amazon Sagemaker Studio and surprised with the result. It was so g
 
 Below are the results:
 
-![](img/father-recolor.png)
+![](/img/father-recolor.png)
 
-![](img/1c.png)
+![](/img/1c.png)
 
-![](img/4c.png)
+![](/img/4c.png)
 
-![](img/5c.png)
+![](/img/5c.png)
