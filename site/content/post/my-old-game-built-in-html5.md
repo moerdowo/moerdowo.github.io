@@ -9,4 +9,4 @@ Wow found this game code in my old hard drive. This is built using gamequery bac
 
 <iframe width="640" height="375" src="https://sleepy-bell-457ed4.netlify.app/" frameborder="0" allowfullscreen></iframe>
 
-![](img/screen-shot-2020-08-05-at-10.29.00-pm.png)
+![](/img/screen-shot-2020-08-05-at-10.29.00-pm.png)
