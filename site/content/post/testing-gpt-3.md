@@ -33,12 +33,10 @@ Singularity
 
 > Singularity means human immortality, freedom to do whatever we want, limited only by imagination.
 
-- - -
-
-And my twitter now already taken over by GPT-3 😂
-
-
-
 > You’re close to the singularity when all you can talk about is how far away it is.
->
-> — Frianto (@FriantoMoerdowo) [August 8, 2020](https://twitter.com/FriantoMoerdowo/status/1292089454249816064?ref_src=twsrc%5Etfw)
+
+
+
+
+
+
