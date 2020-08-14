@@ -8,7 +8,7 @@ More old game collection recovered from my hard disk, very bad coding practice, 
 
 **Dinoboy (Platformer Game)** 
 
-![](img/screen-shot-2020-08-14-at-4.27.19-pm.png)
+![](/img/screen-shot-2020-08-14-at-4.27.19-pm.png)
 
 Original character by me
 
@@ -20,7 +20,7 @@ Original character by me
 
 **Astronot VS Alien (Tower Defense Game)**
 
-![](img/screen-shot-2020-08-14-at-4.30.51-pm.png)
+![](/img/screen-shot-2020-08-14-at-4.30.51-pm.png)
 
 <https://fervent-turing-e2f328.netlify.app/>
 
@@ -28,7 +28,7 @@ Original character by me
 
 **Mahabharata (Platformer Game)**
 
-![](img/screen-shot-2020-08-14-at-4.33.07-pm.png)
+![](/img/screen-shot-2020-08-14-at-4.33.07-pm.png)
 
 Original Character by Ijal
 
@@ -38,7 +38,7 @@ Original Character by Ijal
 
 **Perang Melawan Sampah (Platformer Game)**
 
-![](img/screen-shot-2020-08-14-at-4.34.42-pm.png)
+![](/img/screen-shot-2020-08-14-at-4.34.42-pm.png)
 
 This game actually a project from Government, I believe it was put on their website or for event. A Slight modification from Mahabharata game.
 
@@ -50,7 +50,7 @@ Original character by Ijal
 
 **Sea: Petarung Galaksi (Platformer Game)**
 
-![](img/screen-shot-2020-08-14-at-4.36.35-pm.png)
+![](/img/screen-shot-2020-08-14-at-4.36.35-pm.png)
 
 This is not the original character. I modified it using my daughter photo for fun. Some of its assets using sprite from Metal Slug.
 
