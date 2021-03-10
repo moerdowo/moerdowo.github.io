@@ -5,7 +5,7 @@ description: Finally registered
 ---
 
 
-![](img/screen-shot-2021-03-10-at-11.56.08-pm.png)
+![](./img/screen-shot-2021-03-10-at-11.56.08-pm.png)
 
 After tough discussion with my-cofounder, Eka. We finally decided and registered the company with the name: PT Mayar Kernel Supernova
 
