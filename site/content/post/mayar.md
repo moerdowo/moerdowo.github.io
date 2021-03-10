@@ -3,7 +3,7 @@ title: Mayar
 date: 2021-01-22T16:27:44.245Z
 description: Mayar launched
 ---
-![](img/mayarlogo-small.png)
+![](./img/mayarlogo-small.png)
 
 
 
